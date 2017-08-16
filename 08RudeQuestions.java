@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class RudeQuestions {
+public class 08RudeQuestions {
 	public static void main( String[] args ){
 		String name, job;
 		int age;
