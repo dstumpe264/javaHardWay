@@ -1,4 +1,4 @@
-public class 02GasolineReceipt {
+public class N02GasolineReceipt {
   public static void main( String[] args) {
     System.out.println( "+------------------------+");
     System.out.println( "|                        |");
