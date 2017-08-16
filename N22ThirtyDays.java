@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 22ThirtyDays{
+public class N22ThirtyDays{
 	public static void main(String[] args){
 		Scanner keyboard = new Scanner(System.in);
 		int month, days;
