@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 16ComparingNumbers {
+public class N16ComparingNumbers {
 	public static void main(String[] args){
 		Scanner keyboard = new Scanner(System.in);
 		double first, second;
