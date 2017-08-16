@@ -1,4 +1,4 @@
-public class 04EscapeSequencesComments {
+public class N04EscapeSequencesComments {
 	public static void main( String[] args ) {
 		// This exercise demonstrates escape sequences & comments (like these)!
 		System.out.print( "Learn\tJava\n\tthe\nHard\tWay\n\n" );
