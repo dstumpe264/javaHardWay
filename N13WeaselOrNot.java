@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 13WeaselOrNot{
+public class N13WeaselOrNot{
 	public static void main(String[] args){
 		Scanner keyboard = new Scanner(System.in);
 		String word;
