@@ -1,4 +1,4 @@
-public class CreatingVariables {
+public class 05CreatingVariables {
 	public static void main( String[] args ) {
 		int x, y, z, age;
 		double seconds, minutes, e, checking;
