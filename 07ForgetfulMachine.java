@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ForgetfulMachine {
+public class 07ForgetfulMachine {
 	public static void main( String[] args ){
 		Scanner keyboard = new Scanner(System.in);
 		
