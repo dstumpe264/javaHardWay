@@ -1,4 +1,4 @@
-public class EscapeSequencesComments {
+public class N04PrintingChoicesEscapes {
 	public static void main( String[] args ) {
 		// This exercise demonstrates escape sequences & comments (like these)!
 		System.out.print( "Learn\tJava\n\tthe\nHard\tWay\n\n" );
@@ -14,6 +14,9 @@ public class EscapeSequencesComments {
 		System.out.println( "\\\\ \\\\\\ \\\\\\\\" ); //it takes 2 to make 1
 		System.out.println( "I hope you understand \"escape sequences\" now. \n");
 		//add comments. :)
+		
+		//Kept the previous code to compare
+		System.out.println( "Learn\tJava\n\tthe\nHard\tWay\n\n\tLearn Java the \"Hard\" way!\nHello\nJello\by\nHard to believe, eh?\n\\//-==-\\//\n\\\\ \\\\\\ \\\\\\\\\nI hope you understand \"escape sequences\" now.");
 	}
 }
 //does not compile

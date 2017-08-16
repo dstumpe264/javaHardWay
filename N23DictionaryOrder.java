@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class DictionaryOrder{
+public class N23DictionaryOrder{
 	public static void main(String[] args){
 		Scanner keyboard = new Scanner(System.in);
 		String name;

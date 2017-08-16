@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SecretWorld{
+public class N18SecretWorld{
 	public static void main(String[] args){
 		Scanner keyboard = new Scanner(System.in);
 		String secret = "please", guess;

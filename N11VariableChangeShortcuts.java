@@ -1,4 +1,4 @@
-public class VariableChangeShortcuts {
+public class N11VariableChangeShortcuts {
 	public static void main( String [] args ) {
 		int i, j, k;
 		

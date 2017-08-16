@@ -1,4 +1,4 @@
-public class MathOperations {
+public class N06MathOperations {
 	public static void main( String[] args ) {
 		int a,b,c,d,e,f,g;
 		double x,y,z;

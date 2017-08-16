@@ -1,7 +1,7 @@
 import static java.lang.System.*;
 import java.util.Scanner;
 
-public class CollegeAdmission{
+public class N20CollegeAdmission{
 	public static void main(String[] args){
 		Scanner keyboard = new Scanner(System.in);
 		int math;

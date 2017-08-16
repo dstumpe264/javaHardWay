@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class GenderTitles{
+public class N21GenderTitles{
 	public static void main(String[] args){
 		Scanner keyboard = new Scanner(System.in);
 		String title = "error";

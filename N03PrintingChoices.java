@@ -1,4 +1,4 @@
-public class PrintingChoices {
+public class N03PrintingChoices {
 	public static void main( String[] args ) {
 		System.out.println( "Alpha" );
 		System.out.println( "Bravo" );
